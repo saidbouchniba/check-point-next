@@ -4,9 +4,9 @@ const nextConfig = {
         remotePatterns: [
           {
             protocol: 'https',
-            hostname: 'www.campussuddesmetiers.com',
+            hostname: 'cdn-icons-png.flaticon.com',
             port: '',
-            pathname: '/wp-content/uploads/2022/05/iStock-1017296544.jpg',
+            pathname: '/512/4079/4079259.png',
           },
         ],
       },
